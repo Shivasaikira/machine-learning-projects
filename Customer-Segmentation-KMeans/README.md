@@ -53,6 +53,23 @@ This project transforms raw transaction data into **actionable customer segments
 
 ---
 
+## 📊 Cluster Visualizations
+
+### 🔹 Optimal Number of Clusters (Elbow Method)
+The Elbow Method was used to determine the optimal number of clusters.  
+A clear bend at **k = 2** indicates the most meaningful segmentation.
+
+![Elbow Method](images/elbow_method.png)
+
+---
+
+### 🔹 Customer Segmentation – Cluster Distribution
+This scatter plot highlights clear separation between customer groups based on **Total Spend** and **Purchase Quantity**.
+
+![Customer Clusters](images/clusters_totalprice_quantity.png)
+
+---
+
 ## 📈 Key Results
 - Identified **2 distinct customer segments**  
 - **22% of customers contributed ~80% of total revenue**  

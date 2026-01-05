@@ -3,6 +3,13 @@
 ## 🧠 Project Overview
 This project applies **K-Means clustering** on large-scale online retail transaction data to segment customers based on purchasing behavior.  
 The objective is to identify **high-value customers**, improve **repeat purchase rates**, and enable **targeted marketing strategies**.
+---
+
+## 🔍 Visual Overview
+
+The following visual summarizes the **end-to-end customer segmentation workflow**, from data analysis to business insights using **K-Means clustering**.
+
+![Customer Segmentation Overview](images/customer_segmentation_overview.png)
 
 ---
 
